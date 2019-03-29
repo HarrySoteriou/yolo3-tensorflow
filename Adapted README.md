@@ -12,6 +12,6 @@ Make changes to config file to use your working directory!!!
 If you have problems with the Interpreter when using PyCharm for example try to set the project interpreter to the System one
 
 TO DO:
-1) Output detects way to few objects, figure out why
+1) Takes 20-30 sec to detect objects for each picture which is too long and I don't know why.
 2) Encorporate multithreating
 3) Download packages that allow for the use of GPU
