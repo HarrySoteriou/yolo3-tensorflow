@@ -15,3 +15,15 @@ TO DO:
 1) Takes 20-30 sec to detect objects for each picture which is too long and I don't know why.
 2) Encorporate multithreating
 3) Download packages that allow for the use of GPU
+
+ANSWERS:
+1) Yolo demands a lot of processing power and appears to operate much faster on Ubuntu (11 sec/ picture)
+2) We have checked the CPU usage and all cores were used to the max. Maybe parallelisation is possible but this is unknown for the moment
+3) Will be working on this today (05/04)
+
+TO DO:
+1) Run the code on PySpark
+2) Test yolo from a different source
+3) Try to preprocess the images before feeding them into the code
+4) Report on improvement when using GPU
+
