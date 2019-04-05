@@ -23,7 +23,7 @@ ANSWERS:
 
 TO DO:
 1) Run the code on PySpark
-2) Test yolo from a different source
+2) Test yolo from a different source https://github.com/AlexeyAB/darknet
 3) Try to preprocess the images before feeding them into the code
-4) Report on improvement when using GPU
+4) Report on improvement when using GPU https://medium.com/@lisulimowicz/tensorflow-cpus-and-gpus-configuration-9c223436d4ef
 
